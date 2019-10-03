@@ -1,0 +1,15 @@
+/* Custom styles for admin panel */
+.img-auth-delete{
+    border: 1px solid white;
+    right: 20px;
+    position: absolute;
+    top: 40px;
+    color: #fff;
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 25px;
+    cursor: pointer;
+}
